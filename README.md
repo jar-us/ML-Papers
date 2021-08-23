@@ -1,7 +1,7 @@
 # Standford University Stock Prediction ML Papers
 
 ## Table of Contents
-- [A machine learning based stock trading framework using technical and economic analysis.pdf](SU/SU-SU-217-A%20machine%20learning%20based%20stock%20trading%20framework%20using%20technical%20and%20economic%20analysis.pdf)
+- [A machine learning based stock trading framework using technical and economic analysis.pdf](SU/SU-217-A-machine-learning-based-stock-trading-framework-using-technical-and-economic-analysis.pdf)
 - [Predicting stock prices for large-cap technology campanies](SU/SU-SU-2017-Predicting%20stock%20prices%20for%20large-cap%20technology%20campanies.pdf)
 - [Predicting Which Stocks Will Beat the Market](SU/SU-2017-Predicting%20Which%20Stocks%20Will%20Beat%20the%20Market.pdf)
 - [Using AI to Make Predictions on Stock Market](SU/SU-2017-SU-2017-Using%20AI%20to%20Make%20Predictions%20on%20Stock%20Market.pdf)
