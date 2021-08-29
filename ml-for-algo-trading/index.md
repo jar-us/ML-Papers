@@ -1,6 +1,7 @@
-[Machine Learning for Trading – From Idea to Execution](/ml-for-algo-trading/chapters/machine-learning-for-trading-from-idea.md)
+- [Machine Learning for Trading – From Idea to Execution](/ml-for-algo-trading/chapters/machine-learning-for-trading-from-idea.md)
 
-Market and Fundamental Data – Sources and Techniques
+- [Market and Fundamental Data – Sources and Techniques](/ml-for-algo-trading/chapters/market-and-fundamental-data-sources-and-techniques.md)
+
 
 Alternative Data for Finance – Categories and Use Cases
 
