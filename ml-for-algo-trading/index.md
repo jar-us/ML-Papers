@@ -3,11 +3,11 @@
 - [Market and Fundamental Data – Sources and Techniques](/ml-for-algo-trading/chapters/market-and-fundamental-data-sources-and-techniques.md)
 
 
-Alternative Data for Finance – Categories and Use Cases
+- [Alternative Data for Finance – Categories and Use Cases](chapters/alternative-data-for-finance-categorie.md)
 
 Financial Feature Engineering – How to Research Alpha Factors
 Portfolio Optimization and Performance Evaluation
-The Machine Learning Process
+The Machine Lening Process
 Linear Models – From Risk Factors to Return Forecasts
 The ML4T Workflow – From Model to Strategy Backtesting
 Time-Series Models for Volatility Forecasts and Statistical Arbitrage
